@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/TiagoaPersonal/0a6bf994-fa85-4c55-8025-7f38a26978b3/52599755-2ba3-45cb-84ae-85ff574f8b9e/_apis/work/boardbadge/32421f2b-9e4a-4e96-ad9b-5e16f7a0d80d)](https://dev.azure.com/TiagoaPersonal/0a6bf994-fa85-4c55-8025-7f38a26978b3/_boards/board/t/52599755-2ba3-45cb-84ae-85ff574f8b9e/Microsoft.RequirementCategory)
 # Dapr SDK for Python
 
 [![PyPI version](https://badge.fury.io/py/dapr.svg)](https://badge.fury.io/py/dapr)
